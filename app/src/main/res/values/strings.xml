@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Catalogue1</string>
+    <string name="sample_rating">6.8</string>
+    <string name="title_sample">Title</string>
+    <string name="date_sample">date</string>
+    <string name="sample_overview">Description</string>
+    <string name="sample_item_teks_view_short">Sample Item Teks View short</string>
+</resources>
